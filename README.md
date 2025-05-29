@@ -1,6 +1,6 @@
-# Code Snippets Repository
+# Basic Programming Repository
 
-Welcome to the **Code Snippets Repository**! This collection contains basic code examples for different programming languages, aimed at helping beginners get started with essential syntax, functions, and workflows.
+Welcome to the **Basic Programming Repository**! This collection contains basic code examples for different programming languages, aimed at helping beginners get started with essential syntax, functions, and workflows.
 
 ## 📂 Structure
 
